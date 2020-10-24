@@ -1,5 +1,3 @@
-# google.sh
+# learning bash
 
-`google roll 1d20`
-
-`https://www.google.com/search?q=roll+1d20`
+`google.sh roll 1d20`
